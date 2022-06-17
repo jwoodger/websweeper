@@ -1,0 +1,9 @@
+# Copyright (C) 2022, Jack Woodger
+# SPDX-License-Identifier: Apache-2.0
+.DS_Store
+*.log
+node_modules/
+npm-debug.log*
+*.tsbuildinfo
+.npm
+.eslintcache
